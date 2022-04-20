@@ -5,5 +5,5 @@ spec:
   environment_slug: node-js
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-nodejs.git
+      repo_clone_url: https://github.com/abuttDO/sample-nodejs.git
     name: sample-nodejs
